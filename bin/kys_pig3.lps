@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Debug"/>
+    <Units Count="25">
+      <Unit0>
+        <Filename Value="kys_pig3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos Y="40"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="kys_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_main"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="8309"/>
+        <CursorPos X="39" Y="8341"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="1"/>
+          <TopLine Value="8628"/>
+          <CursorPos X="43" Y="8634"/>
+        </ExtraEditor1>
+        <UsageCount Value="200"/>
+        <Bookmarks Count="1">
+          <Item0 Y="3658" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="kys_event.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_event"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1103"/>
+        <CursorPos X="5" Y="1118"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="1"/>
+          <CursorPos X="15"/>
+        </ExtraEditor1>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="kys_battle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_battle"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="708"/>
+        <CursorPos X="13" Y="723"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="-1"/>
+          <TopLine Value="168"/>
+          <CursorPos X="49" Y="168"/>
+        </ExtraEditor1>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="kys_engine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_engine"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="912"/>
+        <CursorPos X="11" Y="835"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="kys_script.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_script"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="2159"/>
+        <CursorPos X="28" Y="2172"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="kys_draw.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_draw"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1483"/>
+        <CursorPos Y="1488"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="kys_type.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="kys_type"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="596"/>
+        <CursorPos Y="609"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="macro.inc"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="19" Y="18"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="lib\mythoutput.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="1"/>
+        <CursorPos Y="11"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\soft\Develop_lazarus\fpc\2.7.1\source\rtl\inc\systemh.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="674"/>
+        <CursorPos X="11" Y="686"/>
+        <UsageCount Value="5"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="lib\lua52.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="319"/>
+        <CursorPos X="10" Y="331"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\sdl\src\sdl.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1320"/>
+        <CursorPos X="46" Y="1332"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="lib\SDL2.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1268"/>
+        <CursorPos X="11" Y="1279"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="lib\SDL2_ttf.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="13" Y="57"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="lib\unzip.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="957"/>
+        <CursorPos X="24" Y="968"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="lib\bass.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="781"/>
+        <CursorPos X="10" Y="792"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="lib\bassmidi.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="201"/>
+        <CursorPos X="10" Y="212"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\finah.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="24" Y="27"/>
+        <UsageCount Value="7"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfaces\customdrawn\android\jni.pas"/>
+        <WindowIndex Value="1"/>
+        <UsageCount Value="4"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="17" Y="27"/>
+        <UsageCount Value="20"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\soft\develop_lazarus\packager\registration\lazaruspackageintf.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="79"/>
+        <CursorPos Y="103"/>
+        <UsageCount Value="7"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="D:\soft\develop_lazarus\packager\registration\fcllaz.pas"/>
+        <WindowIndex Value="1"/>
+        <UsageCount Value="8"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\soft\develop_lazarus\fpc\2.6.4\source\packages\fcl-base\src\win\fileinfo.pp"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="38" Y="64"/>
+        <UsageCount Value="8"/>
+      </Unit24>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="kys_battle.pas"/>
+        <Caret Line="378" Column="90" TopLine="366"/>
+      </Position1>
+      <Position2>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="3874" TopLine="3871"/>
+      </Position2>
+      <Position3>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2187" Column="45" TopLine="2166"/>
+      </Position4>
+      <Position5>
+        <Filename Value="kys_draw.pas"/>
+        <Caret Line="1232" Column="9" TopLine="1224"/>
+      </Position5>
+      <Position6>
+        <Filename Value="kys_draw.pas"/>
+        <Caret Line="506" Column="21" TopLine="494"/>
+      </Position6>
+      <Position7>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2175" Column="38" TopLine="2158"/>
+      </Position7>
+      <Position8>
+        <Filename Value="kys_draw.pas"/>
+        <Caret Line="628" Column="22" TopLine="614"/>
+      </Position8>
+      <Position9>
+        <Filename Value="kys_battle.pas"/>
+        <Caret Line="3058" Column="36" TopLine="3046"/>
+      </Position9>
+      <Position10>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="3907" Column="8" TopLine="3900"/>
+      </Position10>
+      <Position11>
+        <Filename Value="kys_battle.pas"/>
+        <Caret Line="3065" Column="45" TopLine="3044"/>
+      </Position11>
+      <Position12>
+        <Filename Value="kys_battle.pas"/>
+        <Caret Line="3035" TopLine="3022"/>
+      </Position12>
+      <Position13>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="8484" Column="20" TopLine="8472"/>
+      </Position13>
+      <Position14>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="916" TopLine="897"/>
+      </Position14>
+      <Position15>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="925" Column="27" TopLine="906"/>
+      </Position15>
+      <Position16>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="302" TopLine="280"/>
+      </Position16>
+      <Position17>
+        <Filename Value="kys_draw.pas"/>
+        <Caret Line="1233" Column="22" TopLine="1224"/>
+      </Position17>
+      <Position18>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2181" Column="53" TopLine="2166"/>
+      </Position18>
+      <Position19>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2144" Column="50" TopLine="2132"/>
+      </Position19>
+      <Position20>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="927" TopLine="904"/>
+      </Position20>
+      <Position21>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="1959" Column="28" TopLine="1946"/>
+      </Position21>
+      <Position22>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="2714" Column="12" TopLine="2701"/>
+      </Position22>
+      <Position23>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2019" Column="23" TopLine="2004"/>
+      </Position23>
+      <Position24>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="4063" TopLine="4061"/>
+      </Position24>
+      <Position25>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="915" TopLine="905"/>
+      </Position25>
+      <Position26>
+        <Filename Value="kys_battle.pas"/>
+        <Caret Line="6064" Column="13" TopLine="6044"/>
+      </Position26>
+      <Position27>
+        <Filename Value="kys_script.pas"/>
+        <Caret Line="2172" Column="28" TopLine="2159"/>
+      </Position27>
+      <Position28>
+        <Filename Value="kys_main.pas"/>
+        <Caret Line="900" Column="17" TopLine="893"/>
+      </Position28>
+      <Position29>
+        <Filename Value="kys_pig3.lpr"/>
+        <Caret Line="25" Column="31"/>
+      </Position29>
+      <Position30>
+        <Filename Value="kys_engine.pas"/>
+        <Caret Line="2197" Column="28" TopLine="2181"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="8">
+      <Item1>
+        <Expression Value="screenTex"/>
+      </Item1>
+      <Item2>
+        <Expression Value="render"/>
+      </Item2>
+      <Item3>
+        <Expression Value="imgsgroundtex"/>
+      </Item3>
+      <Item4>
+        <Expression Value="curtargetsurface"/>
+      </Item4>
+      <Item5>
+        <Expression Value="simplestatus[0]"/>
+      </Item5>
+      <Item6>
+        <Expression Value="Bfield[8]"/>
+      </Item6>
+      <Item7>
+        <Expression Value="TEMPITEMLIST"/>
+      </Item7>
+      <Item8>
+        <Expression Value="itemlist"/>
+      </Item8>
+    </Watches>
+  </Debugging>
+</CONFIG>
