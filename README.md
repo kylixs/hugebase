@@ -8,4 +8,4 @@ The codes can be complied with free pascal 3.1.1 (CodeTyphon) under/for Windows,
 
 The external libraries are SDL/SDL-ttf/SDL-image, BASS, ffmpeg, Lua.
 
-The codes are distributed under GPL 2.0.
+The codes are distributed under LGPL 2.0.
